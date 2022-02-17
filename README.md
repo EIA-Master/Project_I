@@ -1,2 +1,2 @@
-# Project_I
+# Project I
 Repository of Project I
